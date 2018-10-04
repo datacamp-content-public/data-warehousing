@@ -43,6 +43,7 @@ The instructions that follow should be in bullet point form with clear guidance 
 # 10 lines or less,
 # with a max
 # of 16 lines.
+print("test")
 ```
 
 `@solution`
